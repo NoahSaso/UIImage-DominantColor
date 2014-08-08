@@ -9,7 +9,7 @@
 
 #import "UIImage+DominantColor.h"
 
-@implementation UIImage (UIImage+DominantColor)
+@implementation UIImage (DominantColor)
 
 - (UIColor *)dominantColor
 {

@@ -9,6 +9,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface UIImage (UIImage+DominantColor)
+@interface UIImage (DominantColor)
 - (UIColor *)dominantColor;
 @end
