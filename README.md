@@ -1,11 +1,11 @@
 UIImage-DominantColor
 =====================
 
-A simple API to grab the dominant/average color from a UIImage
+A simple API to determine the dominant/average color from a UIImage instance
 
 Code grabbed from: https://github.com/NikolaiRuhe/UIImageAverageColor
 
-Re-made by Sassoty to make it easier to import in your projects (git submodule, etc.)
+Modified to ease the process of incorporating into projects (git submodule, etc.)
 
 Usage
 =====
